@@ -1,6 +1,5 @@
-public class Main {
+public class TravelTime {
     public static void main(String[] args) {
-
         final int distanceFromHomeToOffice = 50;
         System.out.println("Расстояние от дома до офиса - " + distanceFromHomeToOffice + " км");
 
